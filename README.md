@@ -41,3 +41,7 @@ even after the program is closed.
 
 ```bash
 python expense_tracker.py
+
+## 📷 Sample Output
+
+![Expense Tracker Output](output.png)
