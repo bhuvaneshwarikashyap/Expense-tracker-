@@ -41,7 +41,7 @@ Expense-tracker-/
 
 Make sure Python is installed on your system.
 
-python expense_tracker.py
+python (expense_tracker.py)
 
 📷 Sample Output
 
