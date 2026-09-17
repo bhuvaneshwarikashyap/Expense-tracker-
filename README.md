@@ -47,3 +47,9 @@ python expense_tracker.py
 ## 📷 Sample Output
 
 ![Expense Tracker Output](output.png)
+
+👩‍💻 Author
+
+Bhuvaneshwari Kashyap
+
+Built as a Python learning and portfolio project.
