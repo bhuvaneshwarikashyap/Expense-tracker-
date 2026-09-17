@@ -48,8 +48,8 @@ python expense_tracker.py
 
 ![Expense Tracker Output](output.png)
 
-👩‍💻 Author
+## 👩‍💻 Author
 
-Bhuvaneshwari Kashyap
+**Bhuvaneshwari Kashyap**
 
 Built as a Python learning and portfolio project.
