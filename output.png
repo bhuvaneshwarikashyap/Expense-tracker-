@@ -1,0 +1,90 @@
+=============================================
+      WELCOME TO EXPENSE TRACKER
+        Kharcha kam kiya karo 😭
+=============================================
+
+========== MENU ==========
+1. Add Expense
+2. View All Expenses
+3. View Total Spending
+4. Category-wise Summary
+5. Search Expense
+6. Delete Expense
+7. Exit
+Please enter your choice: 1
+
+--- ADD EXPENSE ---
+Enter date (DD-MM-YYYY): 17-09-2026
+Enter category (Food/Travel/Books/Shopping/Other): shopping
+Enter description: i have ordered dress from myntra
+Enter amount (₹): 799
+Done! Expense added successfully.
+
+========== MENU ==========
+1. Add Expense
+2. View All Expenses
+3. View Total Spending
+4. Category-wise Summary
+5. Search Expense
+6. Delete Expense
+7. Exit
+Please enter your choice: 2
+
+--- ALL EXPENSES ---
+1. 17-09-2026 | Shopping | i have ordered dress from myntra | ₹799.00
+
+========== MENU ==========
+1. Add Expense
+2. View All Expenses
+3. View Total Spending
+4. Category-wise Summary
+5. Search Expense
+6. Delete Expense
+7. Exit
+Please enter your choice: 3
+
+Total Spending: ₹799.00
+
+========== MENU ==========
+1. Add Expense
+2. View All Expenses
+3. View Total Spending
+4. Category-wise Summary
+5. Search Expense
+6. Delete Expense
+7. Exit
+Please enter your choice: 5
+
+--- SEARCH EXPENSES ---
+Enter category or description to search: shopping
+1. 17-09-2026 | Shopping | i have ordered dress from myntra | ₹799.00
+
+========== MENU ==========
+1. Add Expense
+2. View All Expenses
+3. View Total Spending
+4. Category-wise Summary
+5. Search Expense
+6. Delete Expense
+7. Exit
+Please enter your choice: 6
+
+--- DELETE EXPENSE ---
+
+--- ALL EXPENSES ---
+1. 17-09-2026 | Shopping | i have ordered dress from myntra | ₹799.00
+Enter expense number to delete: 1
+Deleted: i have ordered dress from myntra (₹799.00)
+
+========== MENU ==========
+1. Add Expense
+2. View All Expenses
+3. View Total Spending
+4. Category-wise Summary
+5. Search Expense
+6. Delete Expense
+7. Exit
+Please enter your choice: 7
+Thanks for using Expense Tracker! 👋
+
+[Program finished]
